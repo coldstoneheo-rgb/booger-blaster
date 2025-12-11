@@ -1,0 +1,5 @@
+{
+  "name": "Booger Blaster (코딱지 블래스터)",
+  "description": "A fun, lightweight game where you flick boogers at flying bugs. Features physics-based projectiles, particle effects, and AI-generated fun facts.",
+  "requestFramePermissions": []
+}
